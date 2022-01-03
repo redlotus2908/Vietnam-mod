@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Viet nam",
+		"leaderName": "Lê Thánh Tông",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Hill","Lakes"],
+		"preferredVictoryType": "",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "We have tolerated you way longer than we should!",
+		"attacked": "It was the biggest mistake of yours so far. My armies are well equipped and thoroughly trained!",
+		"defeated":  "That's not an end. It's merely a beginning of your problems!",
+		"introduction":  "You stand in the presence of Great Emperor Lê Thánh Tông of Vietnam. Behave accordingly and you SHOULD be fine.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "I am glad the war is finally over.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [	239, 2, 2],
+		"innerColor": [	255, 247, 9],
+		"uniqueName": "Guerrilla warfare",
+		"uniques": ["[Wounded] units deal +[25]% damage","[+2 Happiness] from every [Barracks]", "[Ranged] units deal +[25]% damage"],
+		"cities": ["Hanoi","Saigon","Hai Phong","Thanh Hoa","Da Nang","Hue","Bien Hoa","Nhang Hong","Hoi An",
+			"Co Loa","Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
+			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
+	},
+	
+]

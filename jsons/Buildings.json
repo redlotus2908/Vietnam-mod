@@ -1,0 +1,15 @@
+[
+{
+		"name": "Water Puppet Theatre",
+		"replaces": "Opera House",
+		"uniqueTo": "Viet nam", 
+		"culture": 5,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 1,
+		"requiredBuilding": "Temple",
+		"maintenance": 5,
+		"uniques": ["[+3 Culture] from [Lakes] tiles in this city"]
+		"requiredTech": "Acoustics"
+	},
+]
