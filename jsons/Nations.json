@@ -1,9 +1,9 @@
 [
 	{
 		"name": "Viet nam",
-		"leaderName": "Lê Thánh Tông",
+		"leaderName": "Hồ Chí Minh",
 		"adjective": ["Vietnamese"],
-		"startBias": ["Hill","Lakes"],
+		"startBias": ["River"],
 		"preferredVictoryType": "",
 		
 		"startIntroPart1": "TBD",
@@ -29,8 +29,8 @@
 		"outerColor": [	239, 2, 2],
 		"innerColor": [	255, 247, 9],
 		"uniqueName": "Guerrilla warfare",
-		"uniques": ["[Wounded] units deal +[25]% damage","[+2 Happiness] from every [Barracks]", "[Ranged] units deal +[25]% damage"],
-		"cities": ["Hanoi","Saigon","Hai Phong","Thanh Hoa","Da Nang","Hue","Bien Hoa","Nhang Hong","Hoi An",
+		"uniques": ["[Wounded] units deal +[25]% damage","[+2 Happiness] from every [Barracks]", "[Ranged] units deal +[20]% damage"],
+		"cities": ["Ha Noi","Ho Chi Minh","Hai Phong","Thanh Hoa","Da Nang","Hue","Bien Hoa","Nhang Hong","Hoi An",
 			"Co Loa","Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
 	},

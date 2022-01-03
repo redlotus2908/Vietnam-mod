@@ -12,7 +12,7 @@
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Rocketry",
 		"upgradesTo": "Rocket Artillery",
-		"uniques": ["This unit gains free [Cover II]"],		
+		"uniques": ["This unit gains [Cover II] promotion"],
 		"hurryCostModifier": 40,
 		"attackSound": "artillery"
 	},
