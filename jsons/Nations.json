@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Viet nam",
-		"leaderName": "Hồ Chí Minh",
+		"leaderName": "Ho Chi Minh",
 		"adjective": ["Vietnamese"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
