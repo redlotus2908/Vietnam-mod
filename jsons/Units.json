@@ -12,7 +12,7 @@
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Rocketry",
 		"upgradesTo": "Rocket Artillery",
-		"uniques": ["This unit gains [Cover II] promotion", "Bonus vs City 100%", "Must set up to ranged attack", "Limited Visibility", "Indirect Fire"],
+		"uniques": ["This unit gains [Cover II] promotion", "Bonus vs City 100%", "Must set up to ranged attack", "-[1] Sight", "Indirect Fire"],
 		"hurryCostModifier": 40,
 		"attackSound": "artillery"
 	},
