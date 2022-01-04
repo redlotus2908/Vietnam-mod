@@ -4,15 +4,15 @@
 		"leaderName": "Hồ Chí Minh",
 		"adjective": ["Vietnamese"],
 		"startBias": ["River"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Vietnam has the right to enjoy freedom and independence, and in fact has become a free and independent country. The entire Vietnamese nation is determined to use all its spirit and strength, life and wealth to maintain that freedom and independence!TBD",
+		"startIntroPart2": "We believe that all people are born with equal rights. They are endowed by their creator with inalienable rights; Among these are the right to life, liberty, and the pursuit of happiness",
 		
-		"declaringWar": "We have tolerated you way longer than we should!",
-		"attacked": "It was the biggest mistake of yours so far. My armies are well equipped and thoroughly trained!",
-		"defeated":  "That's not an end. It's merely a beginning of your problems!",
-		"introduction":  "You stand in the presence of Great Emperor Lê Thánh Tông of Vietnam. Behave accordingly and you SHOULD be fine.",
+		"declaringWar": "This war is inevitable and we will fight to the end!",
+		"attacked": "We are willing to sacrifice to protect our independence!",
+		"defeated":  "You cannot win the whole nation. This is not the end.",
+		"introduction":  "Hello, I'm Ho Chi Minh, the leader of Vietnam. We come in good faith, and so should you.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
