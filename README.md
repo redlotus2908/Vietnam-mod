@@ -1,2 +1,2 @@
 # Vietnam-mod
-a test mod
+Making mods for Vietnam. Still unfinished. :)
