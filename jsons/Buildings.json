@@ -9,7 +9,7 @@
 		"hurryCostModifier": 1,
 		"requiredBuilding": "Temple",
 		"maintenance": 5,
-		"uniques": ["[+3 Culture] from [River] tiles [in this city]"]
+		"uniques": ["[+2 Culture] from [River, Fresh Water] tiles [in this city]"]
 		"requiredTech": "Acoustics"
 	},
 ]

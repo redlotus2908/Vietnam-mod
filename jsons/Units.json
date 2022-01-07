@@ -1,0 +1,21 @@
+[
+
+	{
+		"name": "Mong Dong",
+		"unitType": "WaterRanged",
+		"uniqueTo": "Viet nam",
+		"replaces": "Galleass",
+		"movement": 4,
+		"strength": 28,
+		"rangedStrength": 28,
+		"cost": 100,
+		"range": 2,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"uniques": ["Cannot enter ocean tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	}
+	
+]
