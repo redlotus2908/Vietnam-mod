@@ -1,0 +1,2 @@
+#ignore all .bak file from notepad++
+*.bak
