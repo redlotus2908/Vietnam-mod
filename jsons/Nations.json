@@ -6,33 +6,32 @@
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Vietnam has the right to enjoy freedom and independence, and in fact has become a free and independent country. The entire Vietnamese nation is determined to use all its spirit and strength, life and wealth to maintain that freedom and independence!",
-		"startIntroPart2": "We believe that all people are born with equal rights. They are endowed by their creator with inalienable rights; Among these are the right to life, liberty, and the pursuit of happiness",
+		"startIntroPart1": "Vietnam has the right to be a free and independent country—and in fact it is so already. And thus the entire Vietnamese people are determined to mobilize all their physical and mental strength, to sacrifice their lives and property in order to safeguard their independence and liberty.",
+		"startIntroPart2": "Quote: VietNam Declation of Independence",
 		
-		"declaringWar": "This war is inevitable and we will fight to the end!",
-		"attacked": "We are willing to sacrifice to protect our independence!",
-		"defeated":  "You cannot win the whole nation. This is not the end.",
-		"introduction":  "Hello, I'm Ho Chi Minh, the leader of Vietnam. We come in good faith, and so should you.",
+		"declaringWar": "Vietnamese people love peace, but all of us are willing to fight for our Fatherland!",
+		"attacked": "We would rather sacrifice everything than lose our country, definitely refuse to be slaves!"
+		"defeated":  "Viet Nam doc lap thong nhat muon nam!",
+		"introduction":  "Hello, I'm Ho Chi Minh, the leader of Vietnam.",
 		
 		"neutralHello": "Greetings.",
-		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralLetsHearIt": ["Let's discuss."],
 		"neutralNo": ["No way.","Never!"],
 		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 		"hateHello": "Go on!",
 		"hateLetsHearIt": ["Speak!"],
 		"hateNo": ["I can't accept!","You need to try harder."],
-		"hateYes": ["Let it be.","This offer is too good to reject."],
+		"hateYes": ["Let it be."],
 		
-		"afterPeace": "I am glad the war is finally over.",
+		"afterPeace": "The war is over. We should look to the future.",
 		"tradeRequest": "What do you think?",
 
 		"outerColor": [	239, 2, 2],
 		"innerColor": [	255, 247, 9],
 		"uniqueName": "Guerrilla warfare",
-		"uniques": ["[25]% Strength <for [Wounded] units>","[+2 Happiness] from every [Barracks]", "[25]% Strength <for [Ranged] units>"],
-		"cities": ["Ha Noi","Ho Chi Minh","Hai Phong","Thanh Hoa","Da Nang","Hue","Bien Hoa","Nhang Hong","Hoi An",
+		"uniques": ["[30]% Strength <for [Wounded] units>","[+2 Happiness] from every [Barracks]", "[15]% Strength <for [Ranged] units>"],
+		"cities": ["Ha Noi","Ho Chi Minh","Hai Phong","Thanh Hoa","Da Nang","Hue","Bien Hoa","Vinh","Hoi An",
 			"Co Loa","Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
-	},
-	
+	}
 ]
