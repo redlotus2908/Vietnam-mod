@@ -29,7 +29,7 @@
 		"outerColor": [	239, 2, 2],
 		"innerColor": [	255, 247, 9],
 		"uniqueName": "Guerrilla warfare",
-		"uniques": ["[30]% Strength <for [Wounded] units>","[+2 Happiness] from every [Barracks]", "[15]% Strength <for [Ranged] units>"],
+		"uniques": ["[+2 Happiness] from every [Barracks]","[30]% Strength <for [Wounded] units>","[15]% Strength <for [Ranged] units>"],
 		"cities": ["Ha Noi","Ho Chi Minh","Hai Phong","Thanh Hoa","Da Nang","Hue","Bien Hoa","Vinh","Hoi An",
 			"Co Loa","Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
