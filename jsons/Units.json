@@ -4,14 +4,14 @@
 		"name": "Mong Dong",
 		"unitType": "Melee Water",
 		"uniqueTo": "Viet nam",
-		"replaces": "Trireme",
+		"replaces": "Caravel",
 		"movement": 4,
-		"strength": 24,
-		"cost": 60,		
-		"requiredTech": "Sailing",
+		"strength": 26,
+		"cost": 100,		
+		"requiredTech": "Astronomy",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Ironclad",
-		"uniques": ["May withdraw before melee ([90])%","[-45]% strength, Cannot enter ocean tiles <before discovring [Astromony]>"],
+		"uniques": ["May withdraw before melee ([90])%"],
 		"attackSound": "nonmetalhit"
 	}
 	
