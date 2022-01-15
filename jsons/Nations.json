@@ -28,9 +28,9 @@
 
 		"outerColor": [	239, 2, 2],
 		"innerColor": [	255, 247, 9],
-		"uniqueName": "Guerlla warfare",
-		"uniques": ["[+2 Happiness] from every [Barracks]","[33]% Strength <when defending> <in [Friendly Land] tiles> <when at war>","[+1 Food] from every [Plantation]"]
-		"cities": ["Ha Noi","Ho Chi Minh","Hai Phong","Thanh Hoa","Da Nang","Hue","Co Loa","Bien Hoa","Vinh","Hoi An",
+		"uniqueName": "Guerilla warfare",
+		"uniques": ["[+2 Happiness] from every [Barracks]","[33]% Strength <when at war>","[+1 Food] from every [Plantation]"]
+		"cities": ["Ha Noi","Sai Gon","Hai Phong","Thanh Hoa","Da Nang","Hue","Co Loa","Bien Hoa","Vinh","Hoi An",
 			"Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
 	}
