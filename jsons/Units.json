@@ -2,20 +2,17 @@
 
 	{
 		"name": "Mong Dong",
-		"unitType": "WaterRanged",
+		"unitType": "Melee Water",
 		"uniqueTo": "Viet nam",
-		"replaces": "Galleass",
+		"replaces": "Trireme",
 		"movement": 4,
-		"strength": 20,
-		"rangedStrength": 20,
-		"cost": 100,
-		"range": 2,
-		"requiredTech": "Compass",
-		"obsoleteTech": "Navigation",
-		"upgradesTo": "Frigate",
-		"uniques": ["Cannot enter ocean tiles"],
-		"hurryCostModifier": 20,
-		"attackSound": "arrow"
+		"strength": 24,
+		"cost": 60,		
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Combustion",
+		"upgradesTo": "Ironclad",
+		"uniques": ["May withdraw before melee ([90])%","[-45]% strength, Cannot enter ocean tiles <before discovring [Astromony]>"],
+		"attackSound": "nonmetalhit"
 	}
 	
 ]
