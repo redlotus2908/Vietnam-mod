@@ -6,7 +6,7 @@
 		"uniqueTo": "Viet nam",
 		"replaces": "Caravel",
 		"movement": 4,
-		"strength": 26,
+		"strength": 24,
 		"cost": 100,		
 		"requiredTech": "Astronomy",
 		"obsoleteTech": "Combustion",

@@ -3,8 +3,8 @@
 		"name": "Viet nam",
 		"leaderName": "Ho Chi Minh",
 		"adjective": ["Vietnamese"],
-		"startBias": ["Rivers","Coast"],
-		"preferredVictoryType": "Cultural",
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Vietnam has the right to be a free and independent country—and in fact it is so already. And thus the entire Vietnamese people are determined to mobilize all their physical and mental strength, to sacrifice their lives and property in order to safeguard their independence and liberty.",
 		"startIntroPart2": "Quote: VietNam Declation of Independence",
@@ -29,7 +29,7 @@
 		"outerColor": [	239, 2, 2],
 		"innerColor": [	255, 247, 9],
 		"uniqueName": "Guerilla warfare",
-		"uniques": ["[+2 Happiness] from every [Barracks]","[33]% Strength <when at war>","[+1 Food] from every [Plantation]"]
+		"uniques": ["[+2 Happiness] from every [Barracks]","[33]% Strength <when at war> <in [Friendly Land] tiles>","[+1 Food] from every [Plantation]"]
 		"cities": ["Ha Noi","Sai Gon","Hai Phong","Thanh Hoa","Da Nang","Hue","Co Loa","Bien Hoa","Vinh","Hoi An",
 			"Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
