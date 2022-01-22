@@ -3,13 +3,12 @@
 		"name": "Water Puppet Theatre",
 		"replaces": "Theatre",
 		"uniqueTo": "Viet nam", 
-		"culture": 3,
-		"happiness": 3,
+		"culture": 5,
+		"happiness": 4,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"maintenance": 1,
-		"requiredBuilding": "Colosseum",		
-		"uniques": ["[+1 Culture] from [{Rivers} {Lakes}] tiles [in this city]"]
+		"requiredBuilding": "Colosseum",				
 		"requiredTech": "Printing Press"
 	},
 ]
