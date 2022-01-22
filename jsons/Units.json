@@ -4,14 +4,14 @@
 		"name": "Mong Dong",
 		"unitType": "Melee Water",
 		"uniqueTo": "Viet nam",
-		"replaces": "Caravel",
+		"replaces": "Trireme",
 		"movement": 4,
-		"strength": 24,
-		"cost": 100,		
-		"requiredTech": "Astronomy",
-		"obsoleteTech": "Combustion",
-		"upgradesTo": "Ironclad",
-		"uniques": ["May withdraw before melee ([90])%"],
+		"strength": 14,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Astronomy",
+		"upgradesTo": "Caravel",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	}
 	

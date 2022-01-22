@@ -1,15 +1,15 @@
 [
 {
 		"name": "Water Puppet Theatre",
-		"replaces": "Opera House",
+		"replaces": "Theatre",
 		"uniqueTo": "Viet nam", 
-		"culture": 5,
-		"happiness": 2,
+		"culture": 3,
+		"happiness": 3,
 		"specialistSlots": {"Artist": 1},
-		"hurryCostModifier": 1,
-		"requiredBuilding": "Temple",
+		"hurryCostModifier": 10,
 		"maintenance": 1,
-		"uniques": ["[+2 Culture] from [Fresh Water] tiles [in this city]"]
-		"requiredTech": "Acoustics"
+		"requiredBuilding": "Colosseum",		
+		"uniques": ["[+1 Culture] from [{Rivers} {Lakes}] tiles [in this city]"]
+		"requiredTech": "Printing Press"
 	},
 ]
